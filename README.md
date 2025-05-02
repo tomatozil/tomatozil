@@ -19,12 +19,12 @@
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github actions-007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 
 <div>
   <img src="https://img.shields.io/badge/figma-ED1965.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 
 <br>
