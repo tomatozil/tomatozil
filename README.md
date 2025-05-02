@@ -23,6 +23,6 @@
 <br>
 <br>
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tomatozil)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tomatozil)](https://github.com/LordDashMe/github-contribution-stats/)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/tomatozil?hide=ranking)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tomatozil?hide=ranking)](https://leetcode.com/JacobLinCool)
