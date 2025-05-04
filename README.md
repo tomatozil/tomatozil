@@ -1,5 +1,7 @@
 <!--내용 부분-->
-<h4>✨ Tech Stack ✨</h4>
+**Hi! I'm Jiyun**
+--
+<h4>Tech Stack</h4>
 <div>
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring framework-6DB33F.svg?style=for-the-badge&logoColor=white" />&nbsp
@@ -8,12 +10,12 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
-<h4>📚 Interested In 📚</h4>
+<h4>Interested In </h4>
 <div>
   <img src="https://img.shields.io/badge/chromium-2088FF.svg?style=for-the-badge&logo=googlechrome&logoColor=white" />&nbsp
 </div>
 
-<h4>🛠 Tools 🛠</h4>
+<h4>Tools</h4>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github actions-007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
@@ -22,7 +24,5 @@
 
 <br>
 <br>
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tomatozil)](https://github.com/LordDashMe/github-contribution-stats/)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/tomatozil?hide=ranking)](https://leetcode.com/JacobLinCool)
